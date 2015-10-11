@@ -1,0 +1,21 @@
+body{
+	background: #000;
+	color:#fff;
+}
+pre{ 
+	font-family: "Ubuntu Mono", "Courier New",courier,fixed,monospace;
+}
+a {
+	color:#B7B8FF;
+}
+a:hover{
+	color:#B7B8FF;
+}
+a:visited{
+	color:#B7B8FF;
+}
+
+.rojo{
+	color: #ff0000;
+}
+@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,400italic,700,700italic);
