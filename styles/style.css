@@ -1,8 +1,9 @@
 body{
 	background: #000;
 	color:#fff;
+	max-width: 500px;
 }
-pre{ 
+pre, span, p{
 	font-family: "Ubuntu Mono", "Courier New",courier,fixed,monospace;
 }
 a {
